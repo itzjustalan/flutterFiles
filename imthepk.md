@@ -1,3 +1,7 @@
+Links to all the youtube videos of Pawan Kumar
+
+as on 27 nov 2020
+
 The Pawan Kumar
 @imthepk
 ·
@@ -15,9 +19,11 @@ Here is the Full Thread Down 👇🏻
 Retweet for awareness. 🔁
 
 Subscribe MTECHVIRAL Youtube!!
+
+
 ``` // might give this baby proper md styling later idk ```
 
-1. Getting Started (MUST)
+1.1. Getting Started (MUST)
 
 Dart Basics 
 https://youtu.be/0CTj3x6jgeY
@@ -127,7 +133,7 @@ Flutter StackOverflow App
 https://youtu.be/-MBWdZ1u8tQ
 
 
-5.  Flutter + Firebase
+5.1.  Flutter + Firebase
 
 Rapid Prototyping With Flutter & Firebase
 https://youtu.be/V-JlLvfzsI0

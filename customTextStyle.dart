@@ -1,20 +1,12 @@
 //custom textstyle flutter
-
-
-//You can create a class to hold your style and then call it from anywhere in your app.
-
-
 class CustomTextStyle {
-  static TextStyle titles(BuildContext context) {
-    return Theme.of(context).textTheme.headline6.copyWith(fontSize: 18.0,color: Colors.blue);
-  }
+  static const style1 = TextStyle(color: Color(0xff4643d3),fontSize: 17);
+  static const style2 = TextStyle(color: Color(0xfffe2262),fontSize: 18);
 }
 
 
 //And the use it as
-
-
 Text(
    'Wow',
-   style: CustomTextStyle.display5(context),
+   style: CustomTextStyle.style1,
 ),
