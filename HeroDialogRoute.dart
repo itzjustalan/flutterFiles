@@ -36,5 +36,5 @@ class HeroDialogRoute<T> extends PageRoute<T> {
 
   @override
   String get barrierLabel => 'hero';
-  //Navigator.push(context, new HeroDialogRoute(builder: (BuildContext context) => Dialog()));
+  //Navigator.push(context, new HeroDialogRoute(builder: (BuildContext context) => Dialog()));//the dialog must contain the same unique hero widget
 }
