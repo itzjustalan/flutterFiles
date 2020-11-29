@@ -1,3 +1,5 @@
+import 'package:flutter/material.dart';
+
 class HeroDialogRoute<T> extends PageRoute<T> {
   HeroDialogRoute({this.builder}) : super();
 
@@ -33,5 +35,8 @@ class HeroDialogRoute<T> extends PageRoute<T> {
   }
 
   @override
+  //String get barrierLabel => throw UnimplementedError();
   String get barrierLabel => 'hero';
 }
+
+//Navigator.push(context, new HeroDialogRoute(builder: (BuildContext context) => Dialog()));
